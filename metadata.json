@@ -1,0 +1,5 @@
+{
+  "name": "Wireless Communication Signal Lab",
+  "description": "An interactive digital signal processing lab. Generates synthetic modulation signals, simulates channel effects, and provides real-time local DSP analysis and denoising visualizations.",
+  "requestFramePermissions": []
+}
